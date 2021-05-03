@@ -1,0 +1,14 @@
+C:\Users\Hasan\source\repos\WebApplication3\WebApplication3\bin\WebApplication3.dll.config
+C:\Users\Hasan\source\repos\WebApplication3\WebApplication3\bin\WebApplication3.dll
+C:\Users\Hasan\source\repos\WebApplication3\WebApplication3\bin\WebApplication3.pdb
+C:\Users\Hasan\source\repos\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\source\repos\WebApplication3\WebApplication3\obj\Debug\WebApplication3.dll
+C:\Users\Hasan\source\repos\WebApplication3\WebApplication3\obj\Debug\WebApplication3.pdb
+C:\Users\Hasan\source\repos\WebApplication3\WebApplication3\obj\Debug\WebApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Hasan\source\repos\WebFormDotNetCRUDApplication\WebApplication3\obj\Debug\WebApplication3.csprojResolveAssemblyReference.cache
+C:\Users\Hasan\source\repos\WebFormDotNetCRUDApplication\WebApplication3\obj\Debug\WebApplication3.csproj.CoreCompileInputs.cache
+C:\Users\Hasan\source\repos\WebFormDotNetCRUDApplication\WebApplication3\obj\Debug\WebApplication3.dll
+C:\Users\Hasan\source\repos\WebFormDotNetCRUDApplication\WebApplication3\obj\Debug\WebApplication3.pdb
+C:\Users\Hasan\source\repos\WebFormDotNetCRUDApplication\WebApplication3\bin\WebApplication3.dll.config
+C:\Users\Hasan\source\repos\WebFormDotNetCRUDApplication\WebApplication3\bin\WebApplication3.dll
+C:\Users\Hasan\source\repos\WebFormDotNetCRUDApplication\WebApplication3\bin\WebApplication3.pdb
